@@ -1,0 +1,19 @@
+{
+  "bundle.css": "static/css/bundle.3abf2515.css",
+  "bundle.css.map": "static/css/bundle.3abf2515.css.map",
+  "bundle.js": "static/js/bundle.43a0f6cb.js",
+  "bundle.js.map": "static/js/bundle.43a0f6cb.js.map",
+  "static/js/1.16348922.chunk.js": "static/js/1.16348922.chunk.js",
+  "static/js/1.16348922.chunk.js.map": "static/js/1.16348922.chunk.js.map",
+  "static/media/404.jpg": "static/media/404.f81f8e7e.jpg",
+  "static/media/chevron-thin-left-hover.svg": "static/media/chevron-thin-left-hover.c0c1bb97.svg",
+  "static/media/chevron-thin-left.svg": "static/media/chevron-thin-left.2dd41c83.svg",
+  "static/media/chevron-thin-right-hover.svg": "static/media/chevron-thin-right-hover.58434d48.svg",
+  "static/media/chevron-thin-right.svg": "static/media/chevron-thin-right.7cfa8fd7.svg",
+  "static/media/loading.gif": "static/media/loading.06139581.gif",
+  "static/media/logo.png": "static/media/logo.4ac75e25.png",
+  "static/media/logo_big.png": "static/media/logo_big.32cbf2f8.png",
+  "static/media/multimedia.svg": "static/media/multimedia.14850624.svg",
+  "vendor.js": "static/js/vendor.bundle.js",
+  "vendor.js.map": "static/js/vendor.bundle.js.map"
+}
